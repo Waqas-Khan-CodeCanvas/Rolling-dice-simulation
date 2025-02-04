@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container-box{
+    background-color: #3E5879;
+}
+.dice-box-outer{
+    background-color: #D8C4B6;
+}
+.btn{
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
