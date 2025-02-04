@@ -1,10 +1,12 @@
 
 # 🎲 Ludo Dice Rolling Simulation
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0e68c1e0-4b6d-4f82-8198-20830cb72feb/deploy-status)](https://app.netlify.com/sites/dice-rolling-simulation/deploys)<br>
+<br>
 A fun and interactive Ludo Dice Rolling Simulation built using **HTML, CSS, Bootstrap, and JavaScript**. This project provides a simple way to roll a virtual dice, mimicking the real-life experience of playing Ludo.
 
 ## 🚀 Live Demo
-Experience the project live on **Netlify**: [Ludo Dice Simulator](#) *(Replace # with your Netlify URL)*
+Experience the project live on **Netlify**: **Ludo Dice Simulator** *<a href="https://dice-rolling-simulation.netlify.app/">Live Demo </a>*<br>
 
 ## 📌 Features
 - 🎲 Simulated dice roll with random number generation (1-6)
@@ -42,4 +44,17 @@ This project is open-source and available under the **MIT License**.
 ---
 
 Made with ❤️ by [Waqas Khan](#) *(https://github.com/Waqas-Khan-CodeCanvas)*
+
+
+
+
+
+## 📝 License
+This project is open-source and available under the **MIT License**.
+
+---
+
+Made with ❤️ by [Your Name](#) *(Replace # with your profile link)*
+
+
 
