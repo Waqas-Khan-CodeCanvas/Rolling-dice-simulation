@@ -38,23 +38,7 @@ Experience the project live on **Netlify**: **Ludo Dice Simulator** *<a href="ht
 ## 📢 Share Your Feedback
 Loved the project? Give it a ⭐ on [GitHub](https://github.com/Waqas-Khan-CodeCanvas/Rolling-dice-simulation.git) and connect with me on **[LinkedIn](#)** *(https://www.linkedin.com/in/waqas-khan-a68602343/)*.
 
-## 📝 License
-This project is open-source and available under the **MIT License**.
-
----
-
 Made with ❤️ by [Waqas Khan](#) *(https://github.com/Waqas-Khan-CodeCanvas)*
-
-
-
-
-
-## 📝 License
-This project is open-source and available under the **MIT License**.
-
----
-
-Made with ❤️ by [Your Name](#) *(Replace # with your profile link)*
 
 
 
